@@ -1,0 +1,17 @@
+{{
+    "name": "swiftype/swiftype",
+    "description": "A simple extension to add autocomplete to your Swiftype indexed site.",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    },
+    "type": "magento2-module",
+    "version": "0.0.1",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Swiftype/Swiftype"
+            ]
+        ]
+    }
+}}

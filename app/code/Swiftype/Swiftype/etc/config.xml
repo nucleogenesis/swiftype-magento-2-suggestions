@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Magento/Store/etc/config.xsd">
+    <default>
+        <swiftype_swiftype>
+            <settings>
+                <enable>1</enable>
+                <text_align>center</text_align>
+            </settings>
+        </swiftype_swiftype>
+    </default>
+</config>
+
