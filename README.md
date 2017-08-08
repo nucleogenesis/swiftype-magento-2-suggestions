@@ -1,4 +1,4 @@
-# Swiftype Magento 2.x Autocomplete
+# Swiftype Magento 2.x Autosuggestion
 
 This is a very simple extension that gives your Magento 2.x search bar the power of Swiftype's jQuery suggestion function.
 
