@@ -10,7 +10,7 @@ Clone this repository somewhere on your server or local system. FTP or otherwise
 
 Enable the extension.
 
-Go to: `Stores -> Configuration -> Swiftype -> Swiftype Autosuggestion` and enter your Engine Key (available at app.swiftype.com [You'll need to sign in...]) and save.
+Go to: `Stores -> Configuration -> Swiftype -> Swiftype Autosuggestion` and enter your Engine Key.
 
 Now, you're search bar will use the documents indexed by the Swiftype web crawler to make suggestions in the dropdown.
 
