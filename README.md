@@ -2,8 +2,6 @@
 
 This is a very simple extension that gives your Magento 2.x search bar the power of Swiftype's jQuery suggestion function.
 
-Just go to your Magento 2 Admin panel. 
-
 ## Installation
 
 Clone this repository somewhere on your server or local system. FTP or otherwise dump the `app/` folder to your Magento application.
