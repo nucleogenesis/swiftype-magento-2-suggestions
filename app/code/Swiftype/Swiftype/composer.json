@@ -1,4 +1,4 @@
-{
+{{
     "name": "swiftype/swiftype",
     "description": "A simple extension to add autocomplete to your Swiftype indexed site.",
     "require": {
@@ -14,4 +14,4 @@
             ]
         ]
     }
-}
+}}

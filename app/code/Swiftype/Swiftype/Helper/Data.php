@@ -9,6 +9,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
     protected $_scopeConfig;
 
     CONST ENGINE_KEY      = 'swiftype_swiftype/settings/engine_key';
+    CONST SEARCH_ID	  = 'swiftype_swiftype/settings/search_id';
 
     public function __construct(
         \Magento\Framework\App\Helper\Context $context,
@@ -21,6 +22,9 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
 
     public function getEngineKey(){
         return $this->_scopeConfig->getValue(self::ENGINE_KEY);
+    }
+    public function getSearchId(){
+        return $this->_scopeConfig->getValue(self::SEARCH_ID);
     }
 }
 

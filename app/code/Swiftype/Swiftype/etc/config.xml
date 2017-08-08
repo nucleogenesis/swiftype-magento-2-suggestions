@@ -5,6 +5,8 @@
             <settings>
                 <enable>1</enable>
                 <text_align>center</text_align>
+		<search_box_id>search</search_box_id>
+		<engine_key>arandombunchofcharacters</engine_key>
             </settings>
         </swiftype_swiftype>
     </default>

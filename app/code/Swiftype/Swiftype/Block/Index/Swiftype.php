@@ -20,4 +20,8 @@ class Swiftype extends \Magento\Framework\View\Element\Template
 	public function getEngineKey() {
 		return $this->_helper->getEngineKey();
 	}
+
+	public function getSearchId() {
+		return $this->_helper->getSearchId();
+	}
 }
