@@ -1,6 +1,6 @@
 # Swiftype Magento 2.x Autosuggestion
 
-This is a very simple extension that gives your Magento 2.x search bar the power of Swiftype's jQuery suggestion function.
+This is a very simple extension that gives your Magento 2.x search bar the power of Swiftype's jQuery suggestion function. By pulling in and configuring the basics using this jQuery plugin from Swiftype: https://github.com/swiftype/swiftype-autocomplete-jquery
 
 You will need to be signed up with Swiftype and have an engine created that has crawled your Magento site. 
 
@@ -21,3 +21,8 @@ Now, you're search bar will use the documents indexed by the Swiftype web crawle
 ## Customizing the Appearance
 
 In `app/code/Swiftype/Swiftype/view/frontend/css/autocomplete.css` you can change the CSS that targets how everything looks.
+
+## TODO
+
+- Allow use of other options for further customization
+- Add the ability to create an engine for your site directly from the module
